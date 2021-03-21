@@ -1,5 +1,5 @@
 # Two-pass-SIC-Assembler
-## SIC Assembler on Linux
+## SIC Assembler on Linux🌱
 
 ### 1. Design Issue
 #### 1) 어셈블러의 아키텍쳐를 결정한다.
